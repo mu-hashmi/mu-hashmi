@@ -4,7 +4,7 @@
 
 ## 🦫
 
-I'm Muhammad, a CS graduate from UC Berkeley who enjoys working on inference optimization, LLM/deep learning infrastructure, and (open-source) tooling around AI systems. 
+I love learning and building what I've learned.
 <!--
 **mu-hashmi/mu-hashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
