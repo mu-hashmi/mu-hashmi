@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/mu-hash/)
 [![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail)](mailto:mhashmi@berkeley.edu)
 
-## Hey! 🦫
+## 🦫
 
 I'm Muhammad, a CS graduate from UC Berkeley who enjoys working on inference optimization, LLM/deep learning infrastructure, and (open-source) tooling around AI systems. 
 <!--
