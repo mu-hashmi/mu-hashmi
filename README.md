@@ -4,7 +4,7 @@
 
 ## 🦫
 
-I love learning and building what I've learned.
+Just keep building.
 <!--
 **mu-hashmi/mu-hashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
