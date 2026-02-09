@@ -3,8 +3,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail)](mailto:mhashmi@berkeley.edu)
 
 ## 🦫
-
-Just keep building.
 <!--
 **mu-hashmi/mu-hashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
