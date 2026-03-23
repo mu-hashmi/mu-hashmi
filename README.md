@@ -1,6 +1,4 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://x.com/muhashmii)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/mu-hash/)
-[![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail)](mailto:mhashmi@berkeley.edu)
 
 ## 🦫
 <!--
